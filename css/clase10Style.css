@@ -2,7 +2,7 @@ body{
     font-size: 15px;
 }
 button{
-    background: var(--color-gradiant);
+    background:rgb(243, 26, 229);
     border: 1px white solid;
     padding: 10px 20px;
     color: white;
@@ -67,7 +67,8 @@ img{
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
 }
 .menu a {
-    background: var(--color-gradiant);
+    background: rgb(243, 26, 229);
+    border: 1px white solid;
     display: block;
     text-decoration: none;
     padding: 10px;
